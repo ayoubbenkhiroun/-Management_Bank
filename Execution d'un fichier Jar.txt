@@ -1,0 +1,10 @@
+Pour exécuter le programme de gestion de comptes bancaires :
+	
+	1- Ouvrir la ligne de commande (Démarrer>Exécuter>cmd)
+	2- Aller jusqu'au repertoire contenant le .jar (cd "chemin_repertoire")
+	3- Taper la commande suivante : java -jar banque.jar
+
+
+
+
+Projet réalisé par Ayoub BEN KHIROUN

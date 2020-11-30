@@ -1,0 +1,8 @@
+Pour creer un fichier .jar
+Sur eclipse :
+Fichier > Export > Java > Jar File > Donner un pour le fichier > Finish
+
+
+
+
+Projet réalisé par Ayoub BEN KHIROUN
